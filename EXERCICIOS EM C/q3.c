@@ -41,8 +41,5 @@ Entrada: Base e Altura
   printf ("A area da sua figura eh igual a %.2f", area);
   
 
-
-;
-
   return 0;
 }
