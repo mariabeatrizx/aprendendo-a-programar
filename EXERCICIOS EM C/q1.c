@@ -30,5 +30,6 @@ int main(void) {
   
   printf ("Suas notas serao:\n%i de R$100\n%i de R$50\n%i de R$20\n%i de R$10\n%i de R$5\n%i de R$2\n%i de R$1", a, b, c, d, e, f, g);
 
+
   return 0;
 }
